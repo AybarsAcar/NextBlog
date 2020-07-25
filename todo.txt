@@ -1,0 +1,7 @@
+NextBlog -- set the github name like this
+
+TODOS:
+  UI improvements
+  private and admin HOC instead of a normal component to protect route without flickering
+  add pop up messages toasters
+  and change the delete blog pop up //currenty it is browser default pop up
